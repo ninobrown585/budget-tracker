@@ -10,10 +10,6 @@ const FILES_FOR_CACHE = [
     "/icons/icon-512x512.png",
     "/manifest.webmanifest",
     "/service-worker.js",
-    "/",
-    "/",
-    "/",
-    "/",
 ];
 
 const CACHE_NAME = "static-cache";
